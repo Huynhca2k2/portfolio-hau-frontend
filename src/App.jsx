@@ -31,8 +31,8 @@ const App = () => {
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
-        <h6 className="mb-3">JOHN ALEX</h6>
-        <p>codeaprogram © All CopyRights Reserved 2022</p>
+        <h6 className="mb-3">Huynh ca</h6>
+        <p>codeaprogram © All CopyRights Reserved 2022\4</p>
       </footer>
     </div>
   );
